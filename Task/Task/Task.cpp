@@ -2,22 +2,22 @@
 
 /*
 
-	ITEAHometask4.
+ITEAHometask4.
 
-	Image number 19.
-	* - * - * - * > *
-	|
-	* - * - * - * - *
+Image number 19.
+* - * - * - * > *
+|
+* - * - * - * - *
 				|
-	* - * - * - * - *
-	|
-	* - * - * - * - *
+* - * - * - * - *
+|
+* - * - * - * - *
 				|
-	* - * - * - * - *
+* - * - * - * - *
 
-	Implement the program which allows to work with a two-dimensional array,
-	receiving the dimension from the console, and filling with elements
-	occurs according to the algorithm.
+Implement the program which allows to work with a two-dimensional array,
+receiving the dimension from the console, and filling with elements
+occurs according to the algorithm.
 
 */
 
