@@ -8,11 +8,11 @@
 	* - * - * - * > *
 	|
 	* - * - * - * - *
-					|
+				|
 	* - * - * - * - *
 	|
 	* - * - * - * - *
-					|
+				|
 	* - * - * - * - *
 
 	Implement the program which allows to work with a two-dimensional array,
